@@ -1,0 +1,5 @@
+state_SP_backtest_2020-04-30
+Spain --- max: 9974.206139817752 +- 1357.2802857984168 date: 2020-06-03 --- Colapse: 2020-05-08
+Germany --- max: 4668.339369409986 +- 863.8075995367523 date: 2020-05-17 --- Colapse: no colapse
+median --- max: 6760.168241607436 date: 2020-05-29 --- Colapse: 2020-05-11
+sub factor = 2.851068382441667
