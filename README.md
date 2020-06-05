@@ -44,8 +44,4 @@ Folders with data, saved results and paper figures, respectively:
 - `results/dfs`
 - `results/figures`
 
-## License
-
-See [LICENSE](https://github.com/rodsveiga/ICU_demand/blob/master/LICENSE).
-
 
