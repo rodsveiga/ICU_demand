@@ -1,0 +1,15 @@
+city_SP_
+Spain --- max: 2166.1689 +- 503.45090894376443 date: 2020-05-18 --- Colapse: no colapse
+Switzerland --- max: 2022.5624999999998 +- 430.65249146350675 date: 2020-05-10 --- Colapse: no colapse
+median --- max: 2032.8829500000002 +- 473.46259809434963 date: 2020-05-15 --- Colapse: no colapse
+sub factor = 2.1 --- fitted with non-SUS data
+-----
+scenarios fitted with city_SP_ data until: 05-17
+-----------
+Spain --- colapse interval: ['2020-05-16', '2020-05-17', '2020-05-18', '2020-05-19', '2020-05-20', '2020-05-21', '2020-05-22', '2020-05-23', '2020-05-24', '2020-05-25', '2020-05-26']
+-----
+Switzerland --- colapse interval: []
+-----
+median --- colapse interval: []
+-----
+Z = 1.0
