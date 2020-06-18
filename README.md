@@ -2,7 +2,9 @@
 
 ## Description
 
-Code for *Age-structured estimation of COVID-19 ICU demand from low quality data* (arXiv link).
+Code for *Age-structured estimation of COVID-19 ICU demand from low quality data*.
+
+Paper link: [arXiv:2006.06530](https://arxiv.org/abs/2006.06530)
 
 ## Prerequisites
 - [python](https://www.python.org/) >= 3.6
